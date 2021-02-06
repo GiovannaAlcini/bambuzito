@@ -9,6 +9,10 @@ p {
 body ,*{
     background-color: rgb(71, 71, 71);
     background-image: url('./img/wp.jpg' );
+},
+button{
+    color:white;
+    margin-top: 10px;
 }
 .image{
     height: 250px;
